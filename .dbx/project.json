@@ -1,0 +1,15 @@
+{
+    "environments": {
+        "default": {
+            "profile": "DEFAULT",
+            "storage_type": "mlflow",
+            "properties": {
+                "workspace_directory": "/Users/chaypimm@ais.co.th/dbx_cicd_template_test",
+                "artifact_location": "dbfs:/databricks/mlflow-tracking/3343982200761797"
+            }
+        }
+    },
+    "inplace_jinja_support": false,
+    "failsafe_cluster_reuse_with_assets": false,
+    "context_based_upload_for_execute": false
+}
